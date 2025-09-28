@@ -183,12 +183,12 @@ cython_debug/
 
 # DS_Store
 .DS_Store
+**/.DS_Store
 
 # Visual Studio Code
 
 # Ruff stuff:
 .ruff_cache/
-.DS_Store
 
 # PyPI configuration file
 .pypirc
